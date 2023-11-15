@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elephant
+* source:	https://sketchfab.com/3d-models/elephant-a640a1099c604a928f39d44523cbd19d
+* author:	Ozor (https://sketchfab.com/Ozor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elephant" (https://sketchfab.com/3d-models/elephant-a640a1099c604a928f39d44523cbd19d) by Ozor (https://sketchfab.com/Ozor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
